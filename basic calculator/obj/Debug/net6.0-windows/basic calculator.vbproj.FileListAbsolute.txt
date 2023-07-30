@@ -1,0 +1,18 @@
+D:\C\visual studio\basic calculator\bin\Debug\net6.0-windows\basic calculator.exe
+D:\C\visual studio\basic calculator\bin\Debug\net6.0-windows\basic calculator.deps.json
+D:\C\visual studio\basic calculator\bin\Debug\net6.0-windows\basic calculator.runtimeconfig.json
+D:\C\visual studio\basic calculator\bin\Debug\net6.0-windows\basic calculator.dll
+D:\C\visual studio\basic calculator\bin\Debug\net6.0-windows\basic calculator.pdb
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.vbproj.AssemblyReference.cache
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic_calculator.Form1.resources
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic_calculator.Resources.resources
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.vbproj.GenerateResource.cache
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.AssemblyInfoInputs.cache
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.AssemblyInfo.vb
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.vbproj.CoreCompileInputs.cache
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.dll
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\refint\basic calculator.dll
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.pdb
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\basic calculator.genruntimeconfig.cache
+D:\C\visual studio\basic calculator\obj\Debug\net6.0-windows\ref\basic calculator.dll
